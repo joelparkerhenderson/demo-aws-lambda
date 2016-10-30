@@ -1,6 +1,8 @@
-# Demo AWS lambda
+# Demo AWS Lambda using NodeJS
 
-Demonstration of Amazon Web Services (AWS) Lambda function setup.
+<img src="README.png" alt="AWS lambda nodejs" style="width: 100%;"/>
+
+Demonstration of Amazon Web Services (AWS) Lambda function setup, using simple NodeJS code.
 
 ## Sign up
 
